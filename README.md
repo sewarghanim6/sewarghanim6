@@ -2,10 +2,6 @@
 
 👋 Hi there! I'm Sewar, a Computer Systems Engineering student
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sewar-khalil)
-
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
